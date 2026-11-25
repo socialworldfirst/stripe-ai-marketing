@@ -1,0 +1,9 @@
+# ship only the gated page, its images and fonts
+*
+!.gitignore
+!index.html
+!images/
+!images/**
+!fonts/
+!fonts/*.woff2
+images/.claude/
